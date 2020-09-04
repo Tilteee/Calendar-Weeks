@@ -1,0 +1,107 @@
+.rbc-event-label{
+    display: none !important;
+}
+.testtt{
+    /* background-color: red; */
+    padding-top: 5px;
+    display: block;
+    /* width: 100%;*/
+    margin-left: 2px;
+    font-size: 12px;
+    text-align: center;
+    height: 100%; 
+    position: absolute;
+    bottom: 0;
+    padding-left: 0;
+    margin-right: 2px;
+}
+.rbc-event{
+    z-index: 0;
+}
+.rbc-allday-cell {
+    /* display: none; */
+    height: 0 !important;
+}
+.icons{
+    bottom:0;
+    position: absolute;
+}
+.rbc-timeslot-group{
+    height: 5px !important;
+}
+.rbc-time-header{
+    background-color: #D4AF37;
+    user-select: none;
+}
+.rbc-time-header-gutter{
+    background-color: #D4AF37 !important;
+}
+
+.rbc-events-container{
+    margin-right: 0px !important;
+    min-height: 40px !important;
+
+}
+.rbc-event-content{
+    background-color: 	#D4AF37 !important;
+    min-height: 40px !important;
+
+    
+}
+.rbc-event{
+    background-color: 	#D4AF37 !important;
+    padding: 0 !important;
+    min-height: 40px !important;
+
+}
+.rbc-toolbar{
+    /* display: none !important; */
+}
+.rbc-row-resource{
+    background-color: 	#D4AF37 !important;
+}
+.outrotest:hover{
+    color: blue;
+}
+.event-drop{
+    width: 50% !important;
+}
+.block-day{
+    background-image: url('../../Assets/block.svg');
+    background-size: 10px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.rbc-addons-dnd-resize-ns-anchor{
+    z-index: 15;
+}
+
+.rbc-addons-dnd-row-body .rbc-row{
+    display: none;
+    background-color: red;
+}
+
+.rbc-current-time-indicator{
+    background-color: red !important;
+    height: 3px !important;
+}
+
+.rbc-event{
+    border-radius: 0px !important;
+    border: 1px solid white !important;
+    z-index: 10 !important;
+}
+
+.rbc-addons-dnd-resize-ns-icon{
+    color: none !important;
+    height: 8px;
+    width: 100% !important;
+    z-index: -1 !important;
+    border-top: 0px !important;
+}
+.rbc-addons-dnd-resizable{
+    z-index: -1 !important;
+    border-top: 0px !important;
+}
